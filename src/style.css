@@ -1,0 +1,4 @@
+.classThing {
+	display: flex;
+	overflow: ellipsis;
+}
