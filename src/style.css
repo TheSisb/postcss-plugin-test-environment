@@ -1,4 +1,7 @@
-.classThing {
-	display: flex;
-	overflow: ellipsis;
+.class-thing {
+  display: flex;
+}
+
+.other-class {
+  color: red;
 }
